@@ -15,19 +15,13 @@
 - Engaging in Data Science projects during free time
 - Actively enhancing skills in Web Development through self-learning
 - Check out my projects on https://github.com/riya79/ml/tree/main/project_stock_prediction
-- Currently seeking internship or job opportunities, view [my resume]((https://drive.google.com/file/d/1gKUWXSxl8fR6r_RPnXykrwV8aLAjkuMg/view?usp=drive_link))
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/1gKUWXSxl8fR6r_RPnXykrwV8aLAjkuMg/view?usp=drive_link))
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-
-
-
-
-
-<br>
 <br>
 
 ---
