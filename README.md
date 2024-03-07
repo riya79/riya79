@@ -13,6 +13,7 @@
 
 - A dedicated Self-taught Data Science and Web Developer
 - Engaging in Data Science projects during free time
+- Currently working on deep learing projects
 - Actively enhancing skills in Web Development through self-learning
 - Check out my projects on https://github.com/riya79/ml/tree/main/project_stock_prediction
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/1gKUWXSxl8fR6r_RPnXykrwV8aLAjkuMg/view?usp=drive_link))
