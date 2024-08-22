@@ -14,8 +14,9 @@
 - A dedicated Self-taught Data Science and Full Stack Software Engineer
 - Engaging in Data Science projects during free time
 - Currently working on deep learing projects
+- Actively enhancing skills in Web Development through self-learning
 - Actively enhancing skills in Web Development on Angular-frontend , dot net - backend , Sql server - dbms , postman - api testing
-- Check out my new project expense tracker On Angular , dot net https://github.com/riya79/ExpenseTracker 
+- Check out my project expense tracker - a full stack app using angular - frontend , dot net - backend, Sql server - Dbms https://github.com/riya79/ExpenseTracker 
 - Check out my ml projects on stockprice prediction https://github.com/riya79/ml/tree/main/project_stock_prediction
 - Check out my ANN(UI integrated using Streamlit) projects on Calorie Burnt Prediction (https://github.com/riya79/ml/tree/main/project_stock_prediction) 
 - I’m currently open for an Intern or a new job opportunity, this is my resume (https://drive.google.com/file/d/1gKUWXSxl8fR6r_RPnXykrwV8aLAjkuMg/view?usp=drive_link)
